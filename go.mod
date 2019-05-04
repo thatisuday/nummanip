@@ -1,3 +1,3 @@
-module github.com/thatisuday/nummanip
+module github.com/thatisuday/nummanip/v2
 
 go 1.12
